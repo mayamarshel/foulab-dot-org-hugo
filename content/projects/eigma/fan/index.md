@@ -3,6 +3,7 @@ title = "Remote Controlled Fan Timer"
 topic = "eigma"
 headline = "Remote Controlled Fan Timer"
 toc = true
+image = "media/image/projects/EiNSTeiN_/Home-Made-Lamp/HML-1.JPG"
 +++
 
 ## Introduction
