@@ -15,7 +15,7 @@ Featured Members:
 
 Member Projects:
 ----------------
-*    EiNSTeiN\_
+<!-- *    EiNSTeiN\_
        *    [Home Made 3-axis Lamp](einstein_/home-made-lamp), [Flat Screen Holder](einstein_/home-made-screen-holder)
        *    [Laptop Screen 180degree Mod](einstein_/laptop-screen-180degree-mod)
        *    [Transforming a laptop into a tablet](einstein_/tablet-computer)
@@ -38,7 +38,7 @@ Member Projects:
       *  [FRO](maxd/fro)
       *  [audV2](maxd/audv2)
 *    [eigma](http://vv.carleton.ca/~cat/)
-      *  [Remote Controlled Fan Timer](eigma/fan) (April 2020)
+      *  [Remote Controlled Fan Timer](eigma/fan) (April 2020) -->
 
 
 
