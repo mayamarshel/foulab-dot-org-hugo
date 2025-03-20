@@ -1,4 +1,4 @@
-
-    <img src="{{ .Site.BaseURL }}/media/image/{{ .Page.File.Dir }}{{ .Page.File.BaseFileName }}/{{ .Get "src" }}" {{ with .Get "height" }}height="{{ . }}"{{ end }} {{ with .Get "width" }}width="{{ . }}"{{ end }} style="float: left;"/>
-
+<LEFT>
+    <img src="{{ .Site.BaseURL }}/media/image/{{ .Page.File.Dir }}{{ .Page.File.BaseFileName }}/{{ .Get "src" }}" {{ with .Get "height" }}height="{{ . }}"{{ end }} {{ with .Get "width" }}width="{{ . }}"{{ end }} style="float: none; border-radius: 8px; flex-direction: column; align-items: flex-start; display: grid;"/>
+</LEFT>
 
