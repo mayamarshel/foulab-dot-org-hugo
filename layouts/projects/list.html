@@ -3,14 +3,14 @@
     {{ range .Pages }}
       <div class="gallery-item">
         {{ with .Params.image }}
-          <img src="{{ . | relURL }}" alt="{{ $.Params.title }}" height="50" width="50">
+          <img src="{{ . | relURL }}" alt="{{ $.Params.title }}" height="auto" width="20%">
         {{ else }}
           <p>No Image Available</p>
         {{ end }}
         {{ with .Params.title }}
           <h3>{{ . }}</h3>
         {{ end }}
-        {{ with .Params.headline }}
+        {{ with .Params.topic }}
           <p>{{ . }}</p>
         {{ end }}
         <a href="{{ .RelPermalink }}">View Project</a>
